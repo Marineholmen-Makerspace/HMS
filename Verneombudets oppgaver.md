@@ -1,4 +1,4 @@
-* Artikkler er fra Arbeidsmiljøloven (http://www.arbeidsmiljoloven.com).
+* Artikler er fra Arbeidsmiljøloven (http://www.arbeidsmiljoloven.com).
 (1) Verneombudet skal ivareta arbeidstakernes interesser i saker som angår arbeidsmiljøet. Verneombudet skal se til at virksomheten er innrettet og vedlikeholdt, og at arbeidet blir utført på en slik måte at hensynet til arbeidstakernes sikkerhet, helse og velferd er ivaretatt i samsvar med bestemmelsene i denne lov.
 (2) Verneombudet skal særlig påse:
  (2a) at maskiner, tekniske innretninger, kjemiske stoffer og arbeidsprosesser ikke utsetter arbeidstakerne for fare,

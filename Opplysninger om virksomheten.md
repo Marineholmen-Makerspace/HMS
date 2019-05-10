@@ -1,4 +1,4 @@
-Navn: Marineholmen Makerspace
+Navn: Marineholmen Makerspace Drift AS og Marineholmen Makerspace
 Postnr. og adresse: Thormøhlens gate 41 
 Postkode: 5006 Bergen
 Organisasjonsnummer:
